@@ -1,4 +1,4 @@
-# Yaab (Yet another auto binder)
+# `create-accessor`
 
 [![CircleCI](https://circleci.com/gh/dan1elhughes/create-accessor/tree/master.svg?style=shield)](https://circleci.com/gh/dan1elhughes/create-accessor/tree/master)
 [![codecov](https://codecov.io/gh/dan1elhughes/create-accessor/branch/master/graph/badge.svg)](https://codecov.io/gh/dan1elhughes/create-accessor)
