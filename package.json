@@ -1,0 +1,30 @@
+{
+  "name": "create-accessor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan1elhughes/create-accessor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan1elhughes/create-accessor/issues"
+  },
+  "homepage": "https://github.com/dan1elhughes/create-accessor#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.8.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "husky": "^1.1.3",
+    "lint-staged": "^8.0.4",
+    "prettier": "^1.15.1"
+  }
+}
