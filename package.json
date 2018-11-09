@@ -1,8 +1,8 @@
 {
   "name": "create-accessor",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Deeply nested object access",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/dan1elhughes/create-accessor.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dan Hughes",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dan1elhughes/create-accessor/issues"
   },
